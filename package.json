@@ -5,7 +5,7 @@
   "main": "deck.mdx",
   "scripts": {
     "start": "mdx-deck deck.mdx",
-    "build": "mdx-deck build deck.mdx -d ./docs"
+    "build": "mdx-deck build deck.mdx -d ."
   },
   "author": "VB",
   "license": "ISC",
